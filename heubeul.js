@@ -18,7 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://partnerlink.s3mlah.com/2017/04/rapid-prototyping-with-3d-printing.html
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://partnerlink.s3mlah.com/2017/04/rapid-prototyping-with-3d-printing.html
 ?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
